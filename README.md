@@ -1,4 +1,5 @@
 # Artificial-Intelligence-Planning
+Artificial intelligence TDDC17 HT 2018 lab 4 Shakeys World. Worked with ottodenesfay
 
 Shakey's world, or versions thereof, is an AI classic. A robot, named Shakey, is moving around in a set of rooms, connected by doors. In some of the rooms there are light switches, so that the light in the room can be on or off. Spread throughout this world there are a number of big boxes and a number of smaller things (balls, blocks with letters on them, toy tractors and whatnot).
 Here's an example of a rather small world layout:
